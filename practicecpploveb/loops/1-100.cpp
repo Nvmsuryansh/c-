@@ -12,4 +12,8 @@ int main () {
         cout<<f<<" ";
         f=f-1;
      }
+     cout<<endl;
+     cout<<f;
+return 0;
+    
 }
